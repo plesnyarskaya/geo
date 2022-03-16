@@ -4,7 +4,7 @@
 
 void triangle()
 {
-    int a, b, c, perimetr;
+    int a, b, c, perimetr,x,p;
     float s;
     printf("Vedite storoni:");
     scanf("%d %d %d", &a, &b, &c);
